@@ -1,3 +1,9 @@
+# Problem Statement
+Create a simple tooltip component such that when I hover over a button it shows me a tooltip.
+# GUI
+![React App and 1 more page - Profile 1 - Microsoft​ Edge 09-08-2023 13_11_56](https://github.com/mpal15/tooltips/assets/62149463/cbc137ff-3cad-428a-a0e0-5657cf7407de)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
