@@ -8,7 +8,7 @@ Create a simple tooltip component such that when I hover over a button it shows 
 # To start  the Project
 
 first you clone it the project
-git clone:
+git clone:'https://github.com/mpal15/tooltips.git'
  
 
 
